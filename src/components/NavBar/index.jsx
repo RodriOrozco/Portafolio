@@ -97,6 +97,7 @@ const NavBar = () => {
         className="lg:hidden flex fixed bottom-5 right-5"
         href="https://api.whatsapp.com/send?phone=+542646717912"
         target="_blank"
+        rel="noreferrer"
       >
         <img src={Whatsapp} style={{ width: "55px" }} alt="whatsApp icon" />
       </a>
@@ -109,6 +110,7 @@ const NavBar = () => {
               className="flex justify-between items-center w-full text-[#0a192f]"
               href="https://www.linkedin.com/in/rodri-orozco/"
               target="_blank"
+              rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -118,6 +120,7 @@ const NavBar = () => {
               className="flex justify-between items-center w-full text-[#0a192f]"
               href="https://github.com/RodriOrozco"
               target="_blank"
+              rel="noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
@@ -127,6 +130,7 @@ const NavBar = () => {
               className="flex justify-between items-center w-full text-[#0a192f]"
               href="https://api.whatsapp.com/send?phone=+542646717912"
               target="_blank"
+              rel="noreferrer"
             >
               Celular <IoLogoWhatsapp size={30} />
             </a>

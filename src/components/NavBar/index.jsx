@@ -69,7 +69,7 @@ const NavBar = () => {
         <li className="py-6 text-4xl hover:text-[#64ffda]">
           {" "}
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            About
+            Sobre Mi
           </Link>
         </li>
         <li className="py-6 text-4xl hover:text-[#64ffda]">
@@ -81,13 +81,13 @@ const NavBar = () => {
         <li className="py-6 text-4xl hover:text-[#64ffda]">
           {" "}
           <Link onClick={handleClick} to="work" smooth={true} duration={500}>
-            Work
+            Proyectos
           </Link>
         </li>
         <li className="py-6 text-4xl hover:text-[#64ffda]">
           {" "}
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact
+            Contactame!
           </Link>
         </li>
       </ul>

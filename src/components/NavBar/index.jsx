@@ -94,7 +94,7 @@ const NavBar = () => {
 
       {/* WhatsApp fixed */}
       <a
-        className="lg:hidden flex fixed bottom-5 right-5"
+        className="lg:hidden flex fixed bottom-5 right-5 "
         href="https://api.whatsapp.com/send?phone=+542646717912"
         target="_blank"
         rel="noreferrer"

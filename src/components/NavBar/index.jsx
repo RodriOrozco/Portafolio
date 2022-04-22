@@ -19,7 +19,7 @@ const NavBar = () => {
       <ul className="hidden md:flex">
         <li className="hover:text-[#64ffda]">
           <Link to="home" smooth={true} duration={500}>
-            | Home
+            | Inicio
           </Link>
         </li>
         <li className="hover:text-[#64ffda]">
@@ -29,7 +29,7 @@ const NavBar = () => {
         </li>
         <li className="hover:text-[#64ffda]">
           <Link to="skills" smooth={true} duration={500}>
-            | Skills
+            | Tecnologías
           </Link>
         </li>
         <li className="hover:text-[#64ffda]">
@@ -39,7 +39,7 @@ const NavBar = () => {
         </li>
         <li className="hover:text-[#64ffda]">
           <Link to="contact" smooth={true} duration={500}>
-            | Hola! Quieres Hablar?
+            | ¿Queres Contactarme?
           </Link>
         </li>
       </ul>

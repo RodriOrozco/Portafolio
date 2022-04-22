@@ -13,11 +13,11 @@ const Contact = () => {
       >
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#64ffda] text-gray-300">
-            Contact
+            Contactame
           </p>
           <p className="text-gray-300 py-4">
-            // Enviame el formulario o contactame por Email -
-            orozcorodri8@gmail.com
+            // Contactame por Email - orozcorodri8@gmail.com <br /> // Enviame
+            un formulario
           </p>
         </div>
         <input

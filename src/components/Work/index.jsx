@@ -130,7 +130,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://to-do-list-rodri.herokuapp.com/"
+                  href="https://to-do-list-orpin-eight.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
